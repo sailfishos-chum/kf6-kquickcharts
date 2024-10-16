@@ -2,7 +2,7 @@
 
 Name:		kf6-kquickcharts
 Summary:	A QtQuick module providing high-performance charts
-Version:	6.6.0
+Version: 6.6.0
 Release:	0%{?dist}
 License:	BSD-2-Clause AND CC0-1.0 AND LGPL-2.1-only AND LGPL-3.0-only AND MIT
 URL:		https://invent.kde.org/frameworks/%{framework}
